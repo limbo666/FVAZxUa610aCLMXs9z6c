@@ -1,3 +1,1 @@
-0.16.81.965
-Dragon Fruit
-http://www.georgousis.info
+0.16.81.965*Dragon Fruit*http://www.georgousis.info
