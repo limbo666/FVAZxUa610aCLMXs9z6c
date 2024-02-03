@@ -1,1 +1,1 @@
-2.0.11.63*Ad Meliora*https://sourceforge.net/projects/activityindicat/files/latest/download*released 2022 April*
+2.0.12.64*Ad Meliora*https://sourceforge.net/projects/activityindicat/*released 2024 Feb*
